@@ -1,0 +1,4 @@
+[submodule "modoolar/scrummer"]
+	path = modoolar/scrummer
+	url = git@github.com:modoolar/scrummer.git
+	branch = 11.0
